@@ -1,11 +1,8 @@
 this is another data ingestion file.
-ansh here i am actively working filei .
+ansh here i am actively working file1.
 i am ingisting ingesting datagit.
 i am ingesting more data.
 gion.
 i am ingesting batch data.
-<<<<<<< HEAD
 i am not a serious developer.
-=======
 i am not a serious developer
->>>>>>> 1a76ea5 (development)
